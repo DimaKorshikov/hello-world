@@ -13,3 +13,6 @@ secure format.
 If you already have an RSA SSH key pair to use with GitLab, consider upgrading it
 to use the more secure password encryption format by using the following command
 on the private key:
+
+
+новая строчка с локалки
